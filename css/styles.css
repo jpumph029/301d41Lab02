@@ -1,0 +1,67 @@
+html{
+    background: lightskyblue;    
+    align-items: center;
+}
+body{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+img{
+    height: 15em;
+    width: 15em;
+    object-fit: contain;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    border: 1vw solid yellow;
+    border-radius: 1vw;
+    box-sizing: border-box;
+    background-color: aquamarine;
+
+ 
+}
+
+h1{
+    font-size: 8em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+section{
+   
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+#default{
+    margin-top: 1em;
+}
+h2{
+    padding-top: 2em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: .5em;
+    width: 330px;
+
+}
+p{
+    font-size: 1em;
+    padding-top: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    width: 330px;
+}
+footer{
+
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+
+}
